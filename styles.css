@@ -22,3 +22,13 @@ aside {
 	display: flex;
 	height: 100vh;
 }
+.list-button {
+	color: #8C52FF;
+	padding: 20px;
+	border: 3px solid #8C52FF;
+	border-radius: 15px;
+	background-color: white;
+}
+.list-button:hover {
+	background-color: gainsboro;
+}
