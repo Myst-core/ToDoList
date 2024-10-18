@@ -7,4 +7,5 @@ A small To-Do List I am working on in my spare time.
 - Optional: Implement user authentication to make it multi-user and host the frontend on Netlify and backend on Heroku.
 
 ## Design
-https://shorturl.at/lnFOC
+V1: https://shorturl.at/lnFOC
+V2: https://www.figma.com/design/dGCC21Tq4ACPsCE3ztMo6T/To-do-list-app?node-id=0-1
