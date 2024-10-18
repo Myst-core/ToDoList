@@ -1,21 +1,22 @@
 /* CSS Document */
 body {
-	font-family: arial;
+	font-family: sans-serif;
+	color: #8C52FF;
 }
 .main {
 	flex: 60%;
 	padding: 10px 30px;
 	margin: 0px 5px;	
-	border: 3px solid black;
+	border: 3px solid #8C52FF;
 	border-radius: 15px;
-	background-color: aliceblue;
+	background-color: #D2C7FF;
 }
 aside {
 	flex: 20%;
 	padding: 10px 30px;
 	border-radius: 15px;
-	border: 3px solid black;
-	background-color: gainsboro;
+	border: 3px solid #8C52FF;
+	background-color: #D2C7FF;
 }
 .container {
 	display: flex;
